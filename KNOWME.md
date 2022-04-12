@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @anantnaudiyal
+- 👀 I’m interested in coding,listening to music and travelling.
+- 🌱 I’m currently learning html
+- 💞️ I’m looking to collaborate on web development
+- 📫 How to reach me ...anantnaudiyal2004@gmail
