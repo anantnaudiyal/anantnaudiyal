@@ -10,7 +10,7 @@ I have been learning to coding since class 10th and currently I am learning Full
 
 * 🌍  I'm based in Lucknow,UP,India
 * 🖥️  See my portfolio [My Portfolio](https://github.com/anantnaudiyal/anantnaudiyal).
-* ✉️  You can contact me at [aman2310chandra@gmail.com](mailto:anantnaudiyal2004@outlook.com)
+* ✉️  You can contact me at [anantnaudiyal2004@gmail.com](mailto:anantnaudiyal2004@gmail.com)
 * 🧠  I'm learning Back-End Web development.
 * 🤝  I'm open to collaborating on Web Development and Designing
 
